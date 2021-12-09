@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="pinkText" parent="TextAppearance.AppCompat">
-        <item name="android:textColor">#FF00FB</item>
-    </style>
-    <style name="grayBox" parent="TextAppearance.AppCompat">
-        <item name="android:background">#959494</item>
-    </style>
-</resources>
